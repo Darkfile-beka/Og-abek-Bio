@@ -1,7 +1,7 @@
 # Og-abek-Bio
 Web Site Og'abek Bio
 
-ishlatish https://beka-sea.netlify.app
+ishlatish https://ogabek-bio1.netlify.app
 
 web sayt dasturchi Xudayberdiyev Og'abek
 
